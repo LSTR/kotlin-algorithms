@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-#Use command > sh compiler.sh filename only
+#Use command > sh compiler.sh filename input
 
 kotlin_file=$1
 jar_file="main.jar"
